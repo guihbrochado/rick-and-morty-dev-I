@@ -2,7 +2,7 @@
 ![Logo of the project](https://github.com/guihbrochado/rick-and-morty-dev-I/blob/master/readmeImg/58f37720a4fa116215a9240f.png)
 
 
-## Projeto API Rick And Morty 
+## Project API Rick And Morty 
 This is my project \o/ 
 
 
@@ -17,7 +17,7 @@ Here are the technologies used in this project.
 
 ## How to use
 
-### 1 - When you access, you will see the Home page<3
+### 1 - When you access, you will see the Home page <3
 
 ![Homepage image](https://github.com/guihbrochado/rick-and-morty-dev-I/blob/master/readmeImg/projeto-rick-and-morty.png)
 
