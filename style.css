@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    font-family: 'Indie Flower', cursive;
+}
+
+.header {
+    padding-top: 1px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: black;
+    background: #97ff42;
+    background: -webkit-linear-gradient(to right, rgba(151, 255, 66, 1), rgba(139, 238, 156, 1));
+    background: linear-gradient(to right, rgba(151, 255, 66, 1), rgba(139, 238, 156, 1));
+}
+
+.content{
+    margin-top: 60px;
+    color: white;
+    text-align: center;
+}
+
+.personagem {
+    width: 300px;
+    margin: 20px;
+    border-radius: 16px;
+    text-align: center;
+    margin: auto;
+    color: black;
+    background: white;
+    padding: 0.2em;
+}
+
+img {
+    width: 300px;
+    border-bottom-style: solid;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    }
+
+.episodio {
+    margin: auto;
+    border-style: solid;
+    border-radius: 16px;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    background: white;
+}
+
+
+.footer{
+    padding: 3px;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+    padding: 0.2em;
+    background: #97ff42;
+    background: -webkit-linear-gradient(to right, rgba(151, 255, 66, 1), rgba(139, 238, 156, 1));
+    background: linear-gradient(to right, rgba(151, 255, 66, 1), rgba(139, 238, 156, 1));
+}
